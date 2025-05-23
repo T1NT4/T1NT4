@@ -19,7 +19,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T1NT4&show_icons=true&theme=radical&hide_title=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1NT4&layout=compact&theme=radical"/>
 </p>
-
+<p align="flex-start">
+  <a href="https://github.com/T1NT4">
+    <img src="https://img.shields.io/github/last-commit/T1NT4/Projeto-de-vida?style=for-the-badge&logo=github&logoColor=white" alt="Último commit"/>
+  </a>
+</p>
 
 <!--
 **T1NT4/T1NT4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
